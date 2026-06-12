@@ -101,7 +101,8 @@ Provides an end-to-end audio processing engine to analyze arbitrary human voice 
   </tr>
   <tr>
     <td width="50%"><img src="https://github.com/user-attachments/assets/c1e91dd7-5d47-4b36-a203-7f027fd72d28" alt="Voice Reconstruction" /></td>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/0550b919-bc6a-4fb9-adb4-a9fa8364ad7c" alt="Sampling Analysis 3" /></td>
+    <td width="50%"><img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f61d1b5a-6a16-4aa2-8a18-24b10463070b" />
+" alt="Sampling Analysis 3" /></td>
   </tr>
   <tr>
     <td width="50%"><img src="https://github.com/user-attachments/assets/ee48b101-5db8-4fdc-829c-0f8fa4312ad9" alt="Sampling Analysis 4" /></td>
