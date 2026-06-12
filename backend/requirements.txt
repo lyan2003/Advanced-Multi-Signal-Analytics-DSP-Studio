@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+requests
+tensorflow
+scikit-learn
+mne
+scipy
+scikit-image
+librosa
+soundfile
+transformers
