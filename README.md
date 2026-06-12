@@ -73,18 +73,35 @@ Provides an end-to-end audio processing engine to analyze arbitrary human voice 
 
 ## Application Output Gallery
 
+### Task 1: Multi-Signal Analytics & Viewport Dashboards
 <table>
   <tr>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/eaf44a82-3cdf-4234-a883-4527d553d10d" alt="Studio Output 1" /></td>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/d0b4b748-3208-459e-89ec-858274456447" alt="Studio Output 2" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/eaf44a82-3cdf-4234-a883-4527d553d10d" alt="Signal Analytics 1" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/d0b4b748-3208-459e-89ec-858274456447" alt="Signal Analytics 2" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/7cece725-ac58-4742-932c-67c4bae455a1" alt="Studio Output 3" /></td>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/49413f41-80f0-4ad0-8c33-614dc87d67a5" alt="Studio Output 4" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/7cece725-ac58-4742-932c-67c4bae455a1" alt="Signal Analytics 3" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/49413f41-80f0-4ad0-8c33-614dc87d67a5" alt="Signal Analytics 4" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/1ccdbdb2-b0c5-48f1-a5c3-6578848faa27" alt="Studio Output 5" /></td>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/157e8adb-8a38-4225-b02f-97ce51bb6188" alt="Studio Output 6" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/1ccdbdb2-b0c5-48f1-a5c3-6578848faa27" alt="Signal Analytics 5" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/157e8adb-8a38-4225-b02f-97ce51bb6188" alt="Signal Analytics 6" /></td>
+  </tr>
+</table>
+
+### Task 2: Dynamic Sampling, Aliasing Simulation & Voice Reconstruction
+<table>
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/45b82fa5-cdef-4b44-8bea-dadd5710ed38" alt="Sampling Simulation 1" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/2061cf3d-8f21-4653-900c-d00e92e99515" alt="Sampling Simulation 2" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/481f7f05-fdb7-4c76-87f3-a6f160d0515d" alt="Aliasing Analysis 1" /></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/44719de3-f34d-4c28-aefa-29090a65d5f7" alt="Aliasing Analysis 2" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/c1e91dd7-5d47-4b36-a203-7f027fd72d28" alt="Voice Reconstruction" /></td>
+    <td width="50%"></td>
   </tr>
 </table>
 ---
