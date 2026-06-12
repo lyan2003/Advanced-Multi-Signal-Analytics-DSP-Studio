@@ -120,12 +120,9 @@ Provides an end-to-end audio processing engine to analyze arbitrary human voice 
   </tr>
   <tr>
     <td width="50%">
-      <p align="center"><b>Dynamic Sampling & Aliasing Demo</b></p>
-      <video src="https://github.com/user-attachments/assets/ee48b101-5db8-4fdc-829c-0f8fa4312ad9" controls width="100%">Your browser does not support the video tag.</video>
-    </td>
-    <td width="50%">
       <p align="center"><b>Voice Recognition Demo</b></p>
-      <video src="https://github.com/user-attachments/assets/VIDEO_ID_4" controls width="100%">Your browser does not support the video tag.</video>
+      <video src="https://github.com/user-attachments/assets/ec12f034-05c0-4d5c-9468-c686486cbaca
+" controls width="100%">Your browser does not support the video tag.</video>
     </td>
   </tr>
 </table>
